@@ -1,0 +1,1 @@
+https://github.com/portapps/discord-portable/releases/download/0.0.306-3/discord-portable-win32-0.0.306-3-setup.exe
